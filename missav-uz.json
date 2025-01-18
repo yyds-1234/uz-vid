@@ -2,7 +2,7 @@
     "vod": [
         {
             "name": "MISSAV-uz",
-            "api": "https://raw.githubusercontent.com/fengtangyuan/nodejs/refs/heads/main/missav-uz.js",
+            "api": "https://raw.githubusercontent.com/yyds-1234/uz-vid/refs/heads/main/missav-uz.js",
             "instance": "missavuz20250118",
             "webSite": "https://missav.ai",
             "remark": "",
